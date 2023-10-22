@@ -4,6 +4,10 @@ Passing arguments to sqldf wps r sql functional sql
 
     Passing arguments to sqldf wps r sql functional sql;
 
+    github                                                                                     
+    https://tinyurl.com/5aeuz244                                                               
+    https://github.com/rogerjdeangelis/utl-passing-arguments-to-sqldf-wps-r-sql-functional-sql 
+    
     https://tinyurl.com/yxt49ztu
     https://github.com/cran/sqldf/tree/master#example-5-insert-variables
 
